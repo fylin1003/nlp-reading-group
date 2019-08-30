@@ -42,7 +42,8 @@
 18. Snorkel DryBell 2019. [Snorkel DryBell: A Case Study in Deploying Weak Supervision at Industrial Scale](http://delivery.acm.org/10.1145/3320000/3314036/p362-bach.pdf?ip=150.135.165.8&id=3314036&acc=OA&key=B63ACEF81C6334F5%2E987DD96F1BA4C7DE%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&__acm__=1567192846_4d3124855ee1b476d1f6c766bbd3f3e5).
 19. Custom summarization of transformer models for NLP in the following sequence - [OpenAI GPT, BERT, GPT-2, XLnet, SpanBERT, RoBERTa, ViLBERT]
 
-
-
+## Fangyu's suggestions
+20. Habernal, I., Wachsmuth, H., Gurevych, I., & Stein, B. (2018). Before name-calling: Dynamics and triggers of ad hominem fallacies in web argumentation. arXiv preprint arXiv:1802.06613.
+21. Lin, Z., Feng, M., Santos, C. N. D., Yu, M., Xiang, B., Zhou, B., & Bengio, Y. (2017). A structured self-attentive sentence embedding. arXiv preprint arXiv:1703.03130.
 
 
